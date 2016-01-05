@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="main1.css" rel="stylesheet" type="text/css"/>
+<title>
+</title>
+</head>
+<body>
+<section>
+<h1>This is my heading</h1>
+
+<p>Media queries are really cool.They let you create lots of style sheet that make sites more accessible for people with different screen widths.</p>
+
+<p>Media queries are really cool.They let you create lots of style sheet that make sites more accessible for people with different screen widths.</p>
+
+</section>
+
+<aside>
+<ul>
+<li>Item 1</li>
+<li>Item 2</li>
+<li>Item 3</li>
+<li>Item 4</li>
+</ul>
+</aside>
+</body>
+
+<footer>
+<address>1457 London Rd | Sarnia | ON N7S 6K4</address>
+</footer>
+
+</html>
